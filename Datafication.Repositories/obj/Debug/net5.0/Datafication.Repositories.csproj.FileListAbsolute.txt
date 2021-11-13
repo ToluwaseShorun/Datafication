@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\3 Projects I need done Web\Small assignment 3\template\template\Datafication.Repositories\bin\Debug\net5.0\Datafication.Repositories.deps.json
+C:\Users\Admin\Documents\3 Projects I need done Web\Small assignment 3\template\template\Datafication.Repositories\bin\Debug\net5.0\Datafication.Repositories.runtimeconfig.json
+C:\Users\Admin\Documents\3 Projects I need done Web\Small assignment 3\template\template\Datafication.Repositories\bin\Debug\net5.0\Datafication.Repositories.runtimeconfig.dev.json
+C:\Users\Admin\Documents\3 Projects I need done Web\Small assignment 3\template\template\Datafication.Repositories\bin\Debug\net5.0\Datafication.Repositories.dll
+C:\Users\Admin\Documents\3 Projects I need done Web\Small assignment 3\template\template\Datafication.Repositories\bin\Debug\net5.0\ref\Datafication.Repositories.dll
+C:\Users\Admin\Documents\3 Projects I need done Web\Small assignment 3\template\template\Datafication.Repositories\bin\Debug\net5.0\Datafication.Repositories.pdb
+C:\Users\Admin\Documents\3 Projects I need done Web\Small assignment 3\template\template\Datafication.Repositories\bin\Debug\net5.0\Datafication.Models.dll
+C:\Users\Admin\Documents\3 Projects I need done Web\Small assignment 3\template\template\Datafication.Repositories\bin\Debug\net5.0\Datafication.Models.pdb
+C:\Users\Admin\Documents\3 Projects I need done Web\Small assignment 3\template\template\Datafication.Repositories\obj\Debug\net5.0\Datafication.Repositories.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\3 Projects I need done Web\Small assignment 3\template\template\Datafication.Repositories\obj\Debug\net5.0\Datafication.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\3 Projects I need done Web\Small assignment 3\template\template\Datafication.Repositories\obj\Debug\net5.0\Datafication.Repositories.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\3 Projects I need done Web\Small assignment 3\template\template\Datafication.Repositories\obj\Debug\net5.0\Datafication.Repositories.AssemblyInfo.cs
+C:\Users\Admin\Documents\3 Projects I need done Web\Small assignment 3\template\template\Datafication.Repositories\obj\Debug\net5.0\Datafication.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\3 Projects I need done Web\Small assignment 3\template\template\Datafication.Repositories\obj\Debug\net5.0\Datafication.Repositories.dll
+C:\Users\Admin\Documents\3 Projects I need done Web\Small assignment 3\template\template\Datafication.Repositories\obj\Debug\net5.0\ref\Datafication.Repositories.dll
+C:\Users\Admin\Documents\3 Projects I need done Web\Small assignment 3\template\template\Datafication.Repositories\obj\Debug\net5.0\Datafication.Repositories.pdb
+C:\Users\Admin\Documents\3 Projects I need done Web\Small assignment 3\template\template\Datafication.Repositories\obj\Debug\net5.0\Datafication.Repositories.genruntimeconfig.cache
